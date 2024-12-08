@@ -1,0 +1,2 @@
+# helloda
+Settinhg up git
